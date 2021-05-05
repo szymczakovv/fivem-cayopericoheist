@@ -3,6 +3,7 @@
 # Cayo Perico Heist
 [![Paypal Doante](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/oplatyprimerp)
 [![Discord](https://discordapp.com/api/guilds/690686401469087756/embed.png)](https://discord.gg/wrSqK6k)
+<p></p>
 (Skrypt ten robiłem kiedyś na jakiś serwer)
 <p> </p>
 https://discord.gg/wrSqK6k
